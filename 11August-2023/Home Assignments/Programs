@@ -1,0 +1,41 @@
+B. Home Assignments:
+-----------------------------------------------------
+1. WAP to convert given second into its equivalent hour, minute and second as per the following format.
+
+Enter the time:7560 second.
+
+7560 second = 2 Hour, 27 Minute and 40 Second
+
+Hints: Divide the input by 3600, take division (/) for Hours, further divide the
+Modulo (%)  output by 60, and take
+division (/)
+
+output for minute and
+
+Modulo (%)  output  for seconds.
+
+2. WAP to convert a distance in meter entered through keyboard into its equivalent kilometer and meter as per the following format.
+
+Enter the distance: 2430 meter.
+
+2430 meter = 2 Km and 430 meters.
+Hints: Follow the conversion and print the output.
+
+3. WAP to find the sum of 1st and last of a six-digit number. Number must be a user input.
+
+Enter the number: 234459
+
+Sum of digits is: 11.
+Hints : Last digit = input%10
+First Digit = (n / pow(10, digits))
+pow: power
+
+
+
+4. WAP to find the sum of all digits of a three-digit number. Number must be a user input.
+
+Enter the number: 354
+
+Sum of digits is: 12.
+Hints: sum = first digit (i.e., input/100)+second digit(i.e., (input%100)/10)+
+third digit(i.e., (input%100)%10)

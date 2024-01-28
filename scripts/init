@@ -1,0 +1,9 @@
+#!/bin/bash
+
+current_date=$(date +'%d%B-%Y')
+
+cd ../
+mkdir "$current_date"
+
+mkdir "$current_date/Lab Assignments"
+mkdir "$current_date/Home Assignments"

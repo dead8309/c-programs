@@ -1,0 +1,58 @@
+Lab Assignments:-----------------------------------------
+1. WAP to find the largest among three numbers using nested if.
+
+2.
+WAP to display the grade system of KIIT University based on total marks
+secured by a student in a semester. Assume marks are integer values.
+Use multiple if-else statement.
+The grade is calculated is as follows:
+Marks Grade
+90 to 100 O
+80 to 89 E
+70 to 79 A
+60 to 69 B
+50 to 59 C
+40 to 49 D
+< 40 F
+ Set-1
+Enter total mark secured by a student: 55
+Secured grade is C
+
+Set-2
+Enter total mark secured by a student: 95
+Secured grade is O
+Set-1
+Secured grade is C
+ Set-2
+Secured grade is O
+
+3. WAP to test whether a number entered through keyboard is ODD or EVEN.
+ Set 1
+Enter a number: 19
+Set 2
+Enter a number: 100
+
+Set 1
+19 is an ODD number
+Set 2
+100 is an EVEN number
+4. WAP to test whether a number entered through keyboard is POSITIVE or NEGATIVE.
+Set 1
+Enter a number: 20
+Set 2
+Enter a number: -10
+
+Set 1
+20 is a  POSITIVE number
+Set 2
+-10 is a NEGATIVE number
+
+5. WAP to determine the eligibility for admission based on the following criteria:
+
+Eligibility Criteria:
+Marks in Maths >=65 and Marks in Phy >=55 and Marks in Chem>=50 and
+Total in all three subjects >=190 or Total in Maths and Physics >=140
+ Input the marks obtained in Physics :65 Input the marks obtained in Chemistry :51 Input the marks obtained in Mathematics :72
+
+The candidate is not eligible for admission.
+

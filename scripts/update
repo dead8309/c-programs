@@ -1,0 +1,6 @@
+#!/bin/bash
+
+curl -X POST \
+  'https://clabapi.vercel.app/u' \
+  --header 'Accept: */*' \
+  --form 'temp=@/home/kiit/2306325.zip'

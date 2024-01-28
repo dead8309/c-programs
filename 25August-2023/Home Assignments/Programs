@@ -1,0 +1,49 @@
+1. WAP to find the roots of a quadratic equation ax2+bx+c=0 using switch-case statement.
+Input values for
+a, b and c=>
+
+1
+
+2
+
+1
+Set2
+
+Input values for
+a, b and c=>1 8 3
+Set 2
+Input values for
+a, b and c=>3 5 7
+
+output:
+Input values for
+a, b and c=>
+
+
+1
+
+
+2
+
+
+1
+
+Set2
+Input values for
+a, b and c=>1 8 3
+Set 2
+Input values for
+a, b and c=>3 5 7
+
+
+
+
+2. WAP to print number of days in a month using switch case
+Input: Input month number: 3
+Output:
+
+Total number of days = 31
+Hints:
+January, March, May, July, August, October, December: 31 days
+February: 28/29 days
+April, June, September, November: 30 days
